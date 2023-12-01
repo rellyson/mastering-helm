@@ -1,0 +1,8 @@
+# Chart dependencies
+**/charts/*.tgz
+
+# Python vitual environments
+.venv/
+venv/
+env/
+.env/
