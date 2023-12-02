@@ -7,6 +7,11 @@
 In this repository you can find some interesting tips and
 tricks about [Helm](https://helm.sh) and Helm Charts.
 
+## Documentation
+
+Navigate under `docs/` directory to find useful documentation
+about Helm.
+
 ## Further reading
 
 [Charts - Official doc](https://helm.sh/docs/topics/charts/)
