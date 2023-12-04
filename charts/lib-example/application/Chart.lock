@@ -1,0 +1,6 @@
+dependencies:
+- name: examplelib
+  repository: file://../lib
+  version: 1.0.0
+digest: sha256:4e8863910c5e523262f4359d85ee31e061aa9dc1c8adc5fa5e7634d52bc5bb00
+generated: "2023-12-01T23:04:31.156591227-03:00"
