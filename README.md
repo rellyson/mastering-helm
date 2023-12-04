@@ -5,7 +5,7 @@
 </p>
 
 In this repository you can find some interesting tips and
-tricks about [Helm](https://helm.sh) and Helm Charts.
+tricks about [Helm](https://helm.sh) and Helm charts.
 
 ## Documentation
 
